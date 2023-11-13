@@ -61,11 +61,14 @@ public class switchClass {
         // 如果需要复杂的语句，我们也可以写很多语句，放到{...}里，然后，用yield返回一个值作为switch语句的返回值：
         String mine = "fuyanyu";
         int name = switch (mine){
-            case "mayun" -> "no Name";
+            case "mayun" -> 1;
             case "fuyanyu" -> {
-                System.out.println("yes HaHaHa");
-            };
-            default -> "haha";
+                int a = 10;
+                yield a + 1;
+            }
+            default -> 4;
         };
+
+        System.out.println("name:"+name);
     }
 }
