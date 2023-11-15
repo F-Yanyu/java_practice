@@ -1,6 +1,6 @@
 package org.example.project.processControl;
 
-public class ifClass {
+public class IfClass {
     public static void main(String[] args) {
         // if语句判断范围从大到小判断或者改写成从小到大依次判断：使用if时，还要特别注意边界条件
 

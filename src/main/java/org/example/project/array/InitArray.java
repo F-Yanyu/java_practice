@@ -2,7 +2,7 @@ package org.example.project.array;
 
 import java.util.Scanner;
 
-public class initArray {
+public class InitArray {
     public static void main(String[] args) {
 
         /**

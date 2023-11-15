@@ -1,6 +1,6 @@
 package org.example.project.array;
 
-public class practiceArr02 {
+public class PracticeArr02 {
     public static void main(String[] args) {
         /**
          * 请求出一个数组int[]的最大值 {4,-1,9，10,23]，并得到对应的下标。

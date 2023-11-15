@@ -1,6 +1,6 @@
 package org.example.project.basics;
 
-public class charOrString {
+public class CharOrString {
     public static void main(String[] args) {
 /**
  * @charOrString 字符和字符串

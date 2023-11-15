@@ -3,7 +3,7 @@ package org.example.project.array;
 import java.util.Arrays;
 
 // 多维数组
-public class multidimensionalArray {
+public class MultidimensionalArray {
     public static void main(String[] args){
         // 定义二维数组，就是数组里面的数组
         int[][] ns = {

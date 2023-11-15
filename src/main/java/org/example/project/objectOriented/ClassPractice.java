@@ -1,6 +1,6 @@
 package org.example.project.objectOriented;
 
-public class classPractice {
+public class ClassPractice {
     /*
             请定义一个City类，该class具有如下字段:
             name: 名称，String类型

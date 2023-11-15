@@ -1,6 +1,6 @@
 package org.example.project.array;
 
-public class practiceHenAverage {
+public class PracticeHenAverage {
     public static void main(String[] args) {
         double[] hens = {20,30,23.3,40};
         double totalHens = 0;

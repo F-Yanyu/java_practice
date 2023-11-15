@@ -1,6 +1,6 @@
 package org.example.project.array;
 
-public class arrFuZhi {
+public class ArrFuZhi {
     public static void main(String[] args){
         /**
          * 基本数据类型的赋值是拷贝赋值

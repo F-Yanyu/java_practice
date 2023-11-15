@@ -1,6 +1,6 @@
 package org.example.project.processControl;
 
-public class switchClass {
+public class SwitchClass {
     public static void main(String[] args) {
         int option = 1;
         switch (option) {

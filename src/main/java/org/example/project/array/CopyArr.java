@@ -2,7 +2,7 @@ package org.example.project.array;
 
 import java.util.Arrays;
 
-public class copyArr {
+public class CopyArr {
     public static void main(String[] args){
         //将 int[] arr1 = {10,2,30}; 拷贝到 arr2数组，要求数据空间是独立的
 

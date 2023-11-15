@@ -1,6 +1,6 @@
 package org.example.project.array;
 
-public class bianLi {
+public class BianLi {
     public static void main(String[] args){
 //        for each遍历的是每个元素的值
         int[] arr1 = {1,2,3,45,6};

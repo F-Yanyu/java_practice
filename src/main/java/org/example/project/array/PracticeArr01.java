@@ -1,6 +1,6 @@
 package org.example.project.array;
 
-public class practiceArr01 {
+public class PracticeArr01 {
     public static void main(String[] srgs) {
         /*
         创建一个char类型的26个元素的数组，分别 放置'A'-z使用for循环访问所有元素并打印出来。
