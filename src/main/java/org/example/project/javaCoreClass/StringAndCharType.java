@@ -1,6 +1,6 @@
 package org.example.project.javaCoreClass;
 
-public class StringType {
+public class StringAndCharType {
     public static void main(String[] args){
         /**
          * @String
